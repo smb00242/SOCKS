@@ -43,4 +43,4 @@ service bdix enable
 service bdix disable
 ```
 
-Thanks for following my tutorial. Follow YouTube Channel .
+Thanks for following my tutorial. Follow SMBiT YouTube Channel .
